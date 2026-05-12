@@ -19,7 +19,7 @@ Every decision point in an adaptive learning pipeline is a _semantic collapse_ �
 pip install -r requirements.txt
 ```
 
-**Dataset:** the [ASSISTments 2009–2010 skill-builder dataset](https://sites.google.com/site/assistmentsdata/home/2009-2010-assistment-data/skill-builder-data-2009-2010) and save it as `data/skill_builder_data.csv`.
+**Dataset:** the [ASSISTments 2009–2010 skill-builder dataset](https://sites.google.com/site/assistmentsdata/home/2009-2010-assistment-data/skill-builder-data-2009-2010) and save it as `skill_builder_data.csv`.
 
 ## Usage
 
